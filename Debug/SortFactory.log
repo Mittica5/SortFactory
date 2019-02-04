@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\codym\desktop\projects\sortfactory\sortfactory\sortfactory.h(39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SortFactory.vcxproj -> C:\Users\codym\Desktop\Projects\SortFactory\Debug\SortFactory.exe
